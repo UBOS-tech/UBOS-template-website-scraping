@@ -1,0 +1,8 @@
+[submodule "UBOS-template-website-scraping-ui"]
+	path = UBOS-template-website-scraping-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-website-scraping-ui.git
+	branch = main
+[submodule "UBOS-template-website-scraping-nr"]
+	path = UBOS-template-website-scraping-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-website-scraping-nr.git
+	branch = master
